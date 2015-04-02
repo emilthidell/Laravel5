@@ -1,15 +1,5 @@
 Loading composer repositories with package information
 Updating dependencies (including require-dev)
-  - Removing symfony/var-dumper (v2.6.4)
-  - Installing symfony/var-dumper (v2.6.6)
-    Downloading: Connecting...
-
-                                             
-  [Composer\Downloader\TransportException]   
-  Could not authenticate against github.com  
-                                             
-
-
-update [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--lock] [--no-plugins] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--with-dependencies] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [--ignore-platform-reqs] [--prefer-stable] [--prefer-lowest] [packages1] ... [packagesN]
-
-
+Nothing to install or update
+Generating autoload files
+Generating optimized class loader
